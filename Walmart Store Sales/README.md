@@ -61,7 +61,7 @@ Voting(catboost+Lightgbm):    3398.73423         3290.16334
 <ol>
   <li>Feature Engineering and Selection: Some features may not be predictive of the Weekly sales.</li>
   <li>Hyperparameter Tuning to find optimal values </li>
-  <li>Ensembling or stackinh models</li>
+  <li>Ensembling or stacking models</li>
 </ol>
    
  ### Packages
