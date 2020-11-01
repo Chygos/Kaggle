@@ -1,3 +1,7 @@
+<h2><pre>Walmart Recruiting - Store Sales Forecasting
+Use historical markdown data to predict store sales</pre></h2>
+
+
 ## Data Description
 <a href="https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data">LINK TO DATASET</a>
 
