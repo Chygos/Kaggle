@@ -1,4 +1,5 @@
 ## Data Description
+<a href="https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data">LINK TO DATASET</a>
 
 You are provided with historical sales data for 45 Walmart stores located in different regions. Each store contains a number of departments, and you are tasked with predicting the department-wide sales for each store.
 
@@ -63,6 +64,8 @@ Voting(catboost+Lightgbm):    3398.73423         3290.16334
   <li>Ensembling or stackinh models</li>
 </ol>
    
+ ### Packages
+ scikit learn, lighgbm, catboost, missingno, pandas, numpy, matplotlib, scipy
 
 
 
