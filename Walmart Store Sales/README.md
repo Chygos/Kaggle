@@ -51,7 +51,7 @@ Firstly, the dataset was split into training and validation sets, where the mode
 <p>The target (dependent) variable was higly right-skewed. It was transformed using the fourth root and retransformed back to the original in the powers of 4</p>
 <p>The Lightgbm and Catbost Regressors (boosting regressors) were weight-averaged</p>
 
-Baseline LederBoard scores include:
+Baseline LeaderBoard scores include:
 <pre>
                               Private              Public 
 Ridge:                        9198.62970         8842.37452
