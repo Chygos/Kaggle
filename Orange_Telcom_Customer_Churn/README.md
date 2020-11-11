@@ -1,4 +1,3 @@
-
 <a href= "https://www.kaggle.com/mnassrib/telecom-churn-datasets">Orange Telecom Churn Dataset (Link to dataset)</a>
 
 ## Objective
@@ -6,8 +5,7 @@ To predict if a customer will churn from Orange Telcom company
 <b>Evaluation Metric</b>: F1 Score
 
 ## Variable Definitions
-<b>Variable Definitions</b><br>\n",
-    "<ul>
+<ul>
     <li>State: State customer is located</li>
     <li>Account length: Customer account length in days</li>
     <li>Area code: Area code of customer's location</li>
