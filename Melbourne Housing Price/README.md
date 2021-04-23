@@ -2,7 +2,7 @@
 <a href="https://www.kaggle.com/anthonypino/melbourne-housing-market">Link to Dataset</a>
 
 <b> This notebook contains an anaysis and estimate of the price a property in sold in Melbourne.</b>
-The dataset (34,857 rows) contains 19 likely predictors of selling price of a property.
+<p>The dataset (34,857 rows) contains 19 likely predictors of selling price of a property.</p>
 
 
 <strong>Evaluation metric: </strong> Root Mean Squared log error
